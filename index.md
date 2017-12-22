@@ -8,14 +8,14 @@ one programming language to another every now and then.
 ## [](#header-2)C
 
 * ### [](#header-3)[Board simulation using pipes](https://github.com/raniaspant/BoardSimulation)
-This was a project that I developed for my Unix Systems Programming class (undergraduate studies). Usage of fork/exec for processes, communication between them with pipes/named-pipes, low level I/O, signal management, bash script creation. All of these in combination of custom data structures and dynamic memory management.
+_This was a project that I developed for my Unix Systems Programming class (undergraduate studies). Usage of fork/exec for processes, communication between them with pipes/named-pipes, low level I/O, signal management, bash script creation. All of these in combination of custom data structures and dynamic memory management._
 
 Two entities: board client and board server. The server remains active throughout the procedure. The client(s) post on the board on different channels (provided by the server). Server and clients communicate through named pipes. There was also a bash script created to gather statistics about this whole project running (how many boards are running, how many are inactive etc).
 
 Developed in Linux, Ubuntu, using gedit and terminal.
 
 * ### [](#header-3)[Bank server-client using threads](https://github.com/raniaspant/ServerClient)
-Again, project developed for the same class. Usage of sockets and multithreading techniques, thread pool.
+_Again, project developed for the same class. Usage of sockets and multithreading techniques, thread pool._
 
 Two entities: bank server and bank client. Bank server keeps a hash table that contains a list in every bucket and keeps 1 mutex per 5 positions to maintain synchronization and avoid deadlocks. Size of the table is defined as 50, all of the mutex values are kept in an integer matrix which later gets sorted.
 
