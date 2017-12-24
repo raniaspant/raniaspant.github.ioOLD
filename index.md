@@ -1,7 +1,5 @@
 ---
 layout: default
-title: About
-permalink: /about/
 ---
 
 I've been programming for several years now, hence I have lots of projects and small ideas to showcase. My interests tend to shift from 
