@@ -22,4 +22,3 @@ Two entities: bank server and bank client. Bank server keeps a hash table that c
 The server waits for an incoming connection using a select to avoid busy waiting. There are also 2 more scripts, one for the worker thread, and one for placing/obtaining/initializing functions of the request thread pool, as well as functions about the hash table structure.
 
 Developed in Linux, Ubuntu, using gedit and terminal.
-
