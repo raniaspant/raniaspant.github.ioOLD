@@ -6,6 +6,8 @@ permalink: /about/
 ---
 <a href="https://raniaspant.github.io/">Home</a> <a href="https://raniaspant.github.io/about/">About me</a>
 
+<span class="credits right"><a class="tar_download_link" href="https://raniaspant.github.io">Home</a>   |   <a class="zip_download_link" href="https://github.com/JW0914/Wikis/zipball/master">zip</a></span>
+
 # Hello there.
 
 I am currently doing my MSc in Computer Science in Southern Illinois University Carbondale, under [Dr. Christos Mousas](https://sites.google.com/site/chrismousas/).
