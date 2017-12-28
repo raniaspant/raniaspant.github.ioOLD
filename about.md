@@ -4,6 +4,7 @@ theme: jekyll-theme-midnight
 title: About me
 permalink: /about/
 ---
+<a href="https://raniaspant.github.io/">Home</a> <a href="https://raniaspant.github.io/about/">About me</a>
 
 # Hello there.
 
