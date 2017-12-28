@@ -2,6 +2,7 @@
 theme: jekyll-theme-midnight
 layout: default
 ---
+<a href="https://raniaspant.github.io/about/">About me</a>
 
 I've been programming for several years now, hence I have lots of projects and small ideas to showcase. My interests tend to shift from 
 one programming language to another every now and then. 
@@ -23,13 +24,4 @@ Two entities: bank server and bank client. Bank server keeps a hash table that c
 The server waits for an incoming connection using a select to avoid busy waiting. There are also 2 more scripts, one for the worker thread, and one for placing/obtaining/initializing functions of the request thread pool, as well as functions about the hash table structure.
 
 Developed in Linux, Ubuntu, using gedit and terminal.
-
-
-<form action="http://google.com">
-    <input type="submit" value="Go to Google" />
-</form>
-
-<a class="btn" href="">Link</a>
-
-<a href="http://google.com" class="btn btn-default">Go to Google</a>
 
