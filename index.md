@@ -28,3 +28,8 @@ Developed in Linux, Ubuntu, using gedit and terminal.
 <form action="http://google.com">
     <input type="submit" value="Go to Google" />
 </form>
+
+<a class="btn" href="">Link</a>
+
+<a href="http://google.com" class="btn btn-default">Go to Google</a>
+
