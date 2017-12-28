@@ -1,3 +1,5 @@
 title: Ourania (Rania) Spantidi
 description: Talk is cheap. Show me the code. 
 theme: jekyll-theme-midnight
+plugins:
+  - jekyll-redirect-from
