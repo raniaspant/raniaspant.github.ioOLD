@@ -2,7 +2,7 @@
 theme: jekyll-theme-midnight
 layout: default
 ---
-<a href="https://raniaspant.github.io/about/">About me</a>
+<a href="https://raniaspant.github.io/">Home</a> <a href="https://raniaspant.github.io/about/">About me</a>
 
 I've been programming for several years now, hence I have lots of projects and small ideas to showcase. My interests tend to shift from 
 one programming language to another every now and then. 
