@@ -7,7 +7,7 @@ layout: default
 I've been programming for several years now, hence I have lots of projects and small ideas to showcase. My interests tend to shift from 
 one programming language to another every now and then. 
 
-## ![](http://www.unixstickers.com/image/data/stickers/C/C.sh.png)
+## ![](http://downloadicons.net/sites/default/files/c-language-file-icon-39296.png)
 
 * ### [](#header-3)[Board simulation using pipes](https://github.com/raniaspant/BoardSimulation)
 _This was a project that I developed for my Unix Systems Programming class (undergraduate studies). Usage of fork/exec for processes, communication between them with pipes/named-pipes, low level I/O, signal management, bash script creation. All of these in combination of custom data structures and dynamic memory management._
