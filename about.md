@@ -26,4 +26,5 @@ More programming challenges. I want to keep exercising my mind and keep widening
 ### [](#header-3)Want to reach me?
 
 Email: rania.spantidi[at]gmail.com
+
 LinkedIn: [Rania Spantidi](https://www.linkedin.com/in/rania-spantidi-670a4095/)
