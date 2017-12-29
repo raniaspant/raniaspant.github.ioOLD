@@ -4,7 +4,7 @@ theme: jekyll-theme-midnight
 title: About me
 permalink: /about/
 ---
-<a href="https://raniaspant.github.io/">Home</a> | <a href="https://raniaspant.github.io/about/">About me</a>
+<a href="https://raniaspant.github.io/">Home</a> | <a href="https://raniaspant.github.io/c/">C</a> | <a href="https://raniaspant.github.io/about/">About me</a>
 
 # Hello there.
 
@@ -21,3 +21,9 @@ I still enjoy a good programming challenge. But right now I really like studying
 ### [](#header-3)What do I want?
 
 More programming challenges. I want to keep exercising my mind and keep widening my programming skills.
+
+
+### [](#header-3)Want to reach me?
+
+Email: rania.spantidi[at]gmail.com
+LinkedIn: [Rania Spantidi](https://www.linkedin.com/in/rania-spantidi-670a4095/)
