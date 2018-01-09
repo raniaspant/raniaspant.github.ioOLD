@@ -4,7 +4,7 @@ theme: jekyll-theme-midnight
 title: My C projects
 permalink: /c/
 ---
-<a href="https://raniaspant.github.io/">Home</a> | <a href="https://raniaspant.github.io/c/">C</a> | <a href="https://raniaspant.github.io/about/">About me</a>
+<a href="https://raniaspant.github.io/">Home</a> | <a href="https://raniaspant.github.io/python/">C</a> | <a href="https://raniaspant.github.io/c/">C</a> | <a href="https://raniaspant.github.io/about/">About me</a>
 
 ## ![](http://downloadicons.net/sites/default/files/c-language-file-icon-39296.png)
 
