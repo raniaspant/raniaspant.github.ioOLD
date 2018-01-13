@@ -1,5 +1,32 @@
+#title: Ourania (Rania) Spantidi
+#description: Talk is cheap. Show me the code. 
+#theme: jekyll-theme-midnight
+#plugins:
+#  - jekyll-redirect-from
 title: Ourania (Rania) Spantidi
-description: Talk is cheap. Show me the code. 
-theme: jekyll-theme-midnight
-plugins:
-  - jekyll-redirect-from
+description: >- # this means to ignore newlines until "baseurl:"
+  Talk is cheap. Show me the code. 
+author: Rania
+email: rania.spantidi@gmail.com
+avatar: https://media-cdn.tripadvisor.com/media/photo-s/0e/9a/e3/1d/freedom-tower.jpg
+
+# You'll want to customize baseurl for your own site:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://raniaspant.github.io" # the base hostname & protocol for your site
+
+# Social settings
+facebook_url:
+github_url: https://github.com/raniaspant/
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/rania-spantidi/
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Google Analytics Tracking ID goes here:
+google_analytics:
+
+# The following settings are NECESSARY for the Prologue theme to run:
+theme: jekyll-theme-prologue
+collections: [sections]
