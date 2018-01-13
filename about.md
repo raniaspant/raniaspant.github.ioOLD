@@ -35,4 +35,4 @@ Email: rania.spantidi[at]gmail.com
 
 LinkedIn: [Rania Spantidi](https://www.linkedin.com/in/rania-spantidi-670a4095/)
 
-[CV](https://drive.google.com/open?id=1JcUESOAEobQ3UWbo0CIfLpK9XBZaaYMK)
+Curriculum Vitae: [Click!](https://drive.google.com/open?id=1JcUESOAEobQ3UWbo0CIfLpK9XBZaaYMK)
