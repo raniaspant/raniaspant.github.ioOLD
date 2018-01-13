@@ -18,3 +18,7 @@ permalink: /unity3d/
 
 [](#header-3) [Finite State Machine Tutorial](https://github.com/raniaspant/Unity3dTutorials/blob/master/FSMtutorial_doc.pdf)
 * For this tutorial I have also uploaded a sample starting project, found [here](https://github.com/raniaspant/Unity3dTutorials/tree/master/FSMtutorial).
+
+### [](#header-2)[Behavior Trees in a Capture the Flag Game](https://github.com/raniaspant/BehaviorTrees)
+
+2 teams, one human player, rest are agents. The uploaded material is not a Unity3d Project but the separate C# files, as instructed by the University to be uploaded (plain code files). Titles of the files indicate the functionality, there are almost all types of leaves implemented (selector, sequence, parallel selector, etc).
