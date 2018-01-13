@@ -11,3 +11,10 @@ permalink: /unity3d/
 ## ![](https://chocolatey.org/content/packageimages/unity.2017.3.0.1-patch.png)
 
 ### [](#header-2)Authored Tutorials
+
+[](#header-3) [Pong Tutorial](https://github.com/raniaspant/Unity3dTutorials/blob/master/PongTutorial.pdf)
+
+[](#header-3) [Pacman Tutorial](https://github.com/raniaspant/Unity3dTutorials/blob/master/PacmanTutorial.pdf)
+
+[](#header-3) [Finite State Machine Tutorial](https://github.com/raniaspant/Unity3dTutorials/blob/master/FSMtutorial_doc.pdf)
+* For this tutorial I have also uploaded a sample starting project, found [here](https://github.com/raniaspant/Unity3dTutorials/tree/master/FSMtutorial).
